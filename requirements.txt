@@ -1,0 +1,4 @@
+alphabet_detector
+nltk
+fdupes
+poppler-utils
