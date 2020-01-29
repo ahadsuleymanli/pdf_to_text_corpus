@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 CURDIR=$(cd $(dirname $0); pwd)
 if test -f "${CURDIR}/../config.ini"; then
     CONFIGPATH="${CURDIR}/../config.ini"
